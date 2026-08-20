@@ -1,0 +1,12 @@
+# Node.js dependencies in every experiment
+node_modules/
+
+# macOS metadata
+.DS_Store
+
+# Per-device Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Temporary files
+*.tmp
