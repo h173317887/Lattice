@@ -57,7 +57,6 @@ Projects.md（项目链接清单）独立记录真实项目的 GitHub（代码�
 ## Goal
 ## Questions
 ## Research
-## Conclusions
 ## Core Model
 ## Boundaries
 ## Open Questions
