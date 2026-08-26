@@ -1,6 +1,9 @@
 # Node.js dependencies in every experiment
 node_modules/
 
+# Python virtual environments in every experiment
+**/.venv/
+
 # macOS metadata
 .DS_Store
 
@@ -10,3 +13,4 @@ node_modules/
 
 # Temporary files
 *.tmp
+.env

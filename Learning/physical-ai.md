@@ -10,7 +10,6 @@
 
 - [ ] [[coordinate-transform]]
 - [ ] [[quaternion]]
-- [ ] [[fk-vs-scene-graph]]
 
 ### 2. Simulation（仿真）
 
@@ -36,8 +35,8 @@
 
 ## Workbenches
 
-- [[fk-vs-scene-graph]]
+当前没有已建立的 Workbench（项目代码区）主题。
 
 ## Progress
 
-当前处于 Spatial Foundations（空间基础）阶段，先研究坐标变换与 FK（正向运动学）的关系。
+当前处于 Spatial Foundations（空间基础）阶段，后续补充坐标变换与 FK（正向运动学）相关项目。
